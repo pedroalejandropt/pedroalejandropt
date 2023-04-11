@@ -11,7 +11,7 @@
     </a> 
 </p>
 
-- 🔭 I’m currently working on **Serverless Applications using AWS**
+- 🔭 I’m currently working on **Softtek** building **Serverless Applications using AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedroalejandropt](https://github.com/pedroalejandropt)
 
