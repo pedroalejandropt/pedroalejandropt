@@ -177,22 +177,3 @@
     </a>
 </p>
 <br><br>
-
-<h3 align="left">Support:</h3>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/buymecoffee"> 
-        <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffee" />
-    </a>
-    <a href="https://ko-fi.com/kofi"> 
-        <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kofi" />
-    </a>
-</p>
-<br><br>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroalejandropt&show_icons=true&locale=en&layout=compact" alt="pedroalejandropt" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=pedroalejandropt&show_icons=true&locale=en" alt="pedroalejandropt" />
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroalejandropt&" alt="pedroalejandropt" />
-</p>
