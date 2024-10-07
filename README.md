@@ -40,7 +40,7 @@
         <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
     </a>
     <a href="https://www.algolia.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/algolia/algolia-ar21.svg" alt="algolia" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/algolia/algolia-icon.svg" alt="algolia" width="40" height="40"/> 
     </a>
 </p>
 <br>
