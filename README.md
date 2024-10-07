@@ -11,11 +11,11 @@
     </a> 
 </p>
 
-- 🔭 I’m currently working on **Softtek** building **Serverless Applications using AWS**
+- 🔭 I’m currently working on **dormakaba** as Technical Lead, analyzing and building **Serverless Applications using Azure & AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedroalejandropt](https://github.com/pedroalejandropt)
 
-- 💬 Ask me about **AWS, .Net Core, GitHub Actions, NodeJS, Angular, React, Vue, Nuxt, Ionic, etc.**
+- 💬 Ask me about **AWS, Azure,.Net Core, GitHub Actions, Gitlab, NodeJS, Angular, React, Vue, Nuxt, Ionic, etc.**
 
 - 📫 How to reach me **pedro.alejandro.pt@gmail.com**
 <br><br>
@@ -33,8 +33,14 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
     </a>
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+    </a>
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
+    </a>
+    <a href="https://www.algolia.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/algolia/algolia-ar21.svg" alt="algolia" width="40" height="40"/> 
     </a>
 </p>
 <br>
